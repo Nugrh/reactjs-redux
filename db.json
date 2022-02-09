@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "tugas 1"
+    },
+    {
+      "id": 2,
+      "todo": "meeting 1"
+    },
+    {
+      "id": 3,
+      "todo": "Tugas 3"
+    },
+    {
+      "id": 4,
+      "todo": "Tugas 4"
+    }
+  ]
+}
